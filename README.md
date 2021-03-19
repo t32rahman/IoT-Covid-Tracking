@@ -1,4 +1,4 @@
-# ICUE2021
+# Restaurant Covid-19 Tracker - Made for ICUE2021
 
 How It Works
 
